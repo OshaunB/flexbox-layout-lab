@@ -1,0 +1,9 @@
+.container{
+    border:solid 10px black;
+    justify-content:center;
+    align-content:center;
+}
+.header{
+    display: flex;
+}
+
